@@ -6,6 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: General Calculus
 related_publications: false
+permalink: /Putnam_Problems/2023_A1/
 ---
 
 <!-- Inline styling for larger text in Google Sites -->
@@ -84,7 +85,7 @@ becomes elementary, as <span class="math inline">\(f_{n}(0) = \left(
       inlineMath: [['$', '$'], ['\\(', '\\)']]
     },
     chtml: {
-      scale: 1.0  // Scale up the math font size
+      scale: 0.8  // Scale up the math font size
     }
   };
 </script>
