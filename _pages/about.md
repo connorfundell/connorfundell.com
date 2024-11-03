@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University: Iowa State University</p>
-    <p>Degree progress: Year 2/4</p>
-    <p>Majors: Chemistry and Applied Mathematics</p>
+    <p>More information</p>
 
 news: false # includes a list of news items
 selected_papers: fasle # includes a list of papers marked as "selected={true}"
