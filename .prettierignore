@@ -13,3 +13,5 @@ _sass/tabler-icons/*.scss
 _layouts/about.liquid
 _pages/about.md
 CUSTOMIZE.md
+1_project.md
+4_project.md
