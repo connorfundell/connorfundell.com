@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: TBD
+description: A Diff Eq problem (eventually)
 img:
-importance: 3
-category: fun
+importance: 1
+category: Differential Equations
 ---
 
 Every project has a beautiful feature showcase page.
