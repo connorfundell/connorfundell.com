@@ -12,16 +12,6 @@ permalink: /Putnam_Problems/2023_A1/
 <!-- Inline styling for larger text in Google Sites -->
 <div style="font-size: 20px; line-height: 1.5;">
 
-<!-- *Hopefully* make math text less bold -->
-<style>
-  .MathJax_Display, .MathJax span {
-    font-weight: 400 !important; /* Normal weight */
-  }
-  .mjx-mrow, .mjx-mtext {
-    font-weight: 400 !important;
-  }
-</style>
-
 <!-- Begin solution -->
 <h2 id="problem-setup">Problem Setup</h2>
 <p>
@@ -96,19 +86,16 @@ permalink: /Putnam_Problems/2023_A1/
 </div>
 
 <p>By a similar analysis, the second derivative of the second term is:</p>
-<div class="math display">
-    (-2\cos(x)\sin(2x)\cos(3x)\ldots\cos(nx))'
-</div>
-<div class="math display">
-    = -2 \left[-\sin(x)\sin(2x)\ldots\cos(nx) \right.
-</div>
-<div class="math display">
-    \quad + 2\cos(x)\cos(2x)\ldots\cos(nx)
-</div>
-<div class="math display">
-    \quad - \ldots - n\cos(x)\sin(2x)\ldots\sin(nx)\Big].
-</div>
-
+<p>
+\[
+\left(-2\cos(x)\sin(2x)\cos(3x)\ldots\cos(nx)\right)'
+\]
+</p>
+<p>
+\[
+= -2 \left[-\sin(x)\sin(2x)\ldots\cos(nx) + 2\cos(x)\cos(2x)\ldots\cos(nx) - \ldots - n\cos(x)\sin(2x)\ldots\sin(nx)\right].
+\]
+</p>
 
 <p>
     Thus, the general form of <span class="math inline">\(f_{n}''(x)\)</span> looks like:
@@ -160,7 +147,7 @@ permalink: /Putnam_Problems/2023_A1/
       inlineMath: [['$', '$'], ['\\(', '\\)']]
     },
     chtml: {
-      scale: 0.8  // Scale up the math font size
+      scale: 0.7  // Scale up the math font size
     }
   };
 </script>
