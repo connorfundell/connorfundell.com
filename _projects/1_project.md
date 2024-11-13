@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 2023 A1
-description: We love chain and product rules!
-img: assets/img/12.jpg
+description: A problem with gratuitous use of the chain and product rules.
+img: 
 importance: 1
 category: General Calculus
 related_publications: false
