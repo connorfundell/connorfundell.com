@@ -129,7 +129,7 @@ permalink: /Putnam_Problems/2023_A1/
 
 <p>2.) <em>The Way I Found \(n\)</em>:</p>
 <p>
-    I expanded the series term by term until reaching the required value:
+    I expanded the series term by term until reaching the required value. I won't bore you with the simple multiplication and addition. We find:
 </p>
 <div class="math display">
     \[\left| f_{17}''(0) \right| = 1785, \quad \left| f_{18}''(0) \right| = 2109\]
@@ -147,7 +147,7 @@ permalink: /Putnam_Problems/2023_A1/
       inlineMath: [['$', '$'], ['\\(', '\\)']]
     },
     chtml: {
-      scale: 0.7  // Scale up the math font size
+      scale: 0.5  // Scale up the math font size
     }
   };
 </script>
