@@ -12,6 +12,17 @@ permalink: /Putnam_Problems/2023_A1/
 <!-- Inline styling for larger text in Google Sites -->
 <div style="font-size: 20px; line-height: 1.5;">
 
+<!-- *Hopefully* make math text less bold -->
+<style>
+  .MathJax_Display, .MathJax span {
+    font-weight: 400 !important; /* Normal weight */
+  }
+  .mjx-mrow, .mjx-mtext {
+    font-weight: 400 !important;
+  }
+</style>
+
+<!-- Begin solution -->
 <h2 id="problem-setup">Problem Setup</h2>
 <p>
     For a positive integer <span class="math inline">\(n\)</span>, let
@@ -86,15 +97,18 @@ permalink: /Putnam_Problems/2023_A1/
 
 <p>By a similar analysis, the second derivative of the second term is:</p>
 <div class="math display">
-    \[
-    \begin{aligned}
-    \left(-2\cos(x)\sin(2x)\cos(3x)\ldots\cos(nx)\right)' = -2 \left[
-    -\sin(x)\sin(2x)\ldots\cos(nx) + 2\cos(x)\cos(2x)\ldots\cos(nx) 
-    - \ldots - n\cos(x)\sin(2x)\ldots\sin(nx)
-    \right]
-    \end{aligned}
-    \]
+    (-2\cos(x)\sin(2x)\cos(3x)\ldots\cos(nx))'
 </div>
+<div class="math display">
+    = -2 \left[-\sin(x)\sin(2x)\ldots\cos(nx) \right.
+</div>
+<div class="math display">
+    \quad + 2\cos(x)\cos(2x)\ldots\cos(nx)
+</div>
+<div class="math display">
+    \quad - \ldots - n\cos(x)\sin(2x)\ldots\sin(nx)\Big].
+</div>
+
 
 <p>
     Thus, the general form of <span class="math inline">\(f_{n}''(x)\)</span> looks like:
@@ -138,6 +152,7 @@ permalink: /Putnam_Problems/2023_A1/
 
  
 </div>
+
 <!-- MathJax Configuration to Scale Font Size for Math -->
 <script type="text/javascript">
   window.MathJax = {
