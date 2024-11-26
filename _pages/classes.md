@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,7 +24,7 @@ nav_order: 2
             text-align: left;
         }
         th {
-            background-color: #f2f2f2;
+            background-color: #212121;
         }
         tr:nth-child(even) {
             background-color: #f9f9f9;
@@ -36,8 +35,7 @@ nav_order: 2
     </style>
 </head>
 <body>
-    <h1>Chemistry</h1>
-
+    <h2>Chemistry</h2>
     <table>
         <thead>
             <tr>
@@ -65,44 +63,41 @@ nav_order: 2
             <!-- Add more rows here -->
         </tbody>
     </table>
-
     <h1>Mathematics</h1>
-
-<table>
-        <thead>
-            <tr>
-                <th>Course Name</th>
-                <th>Course Code</th>
-                <th>Semester</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Calculus III</td>
-                <td>MATH 2650</td>
-                <td>Fall 2023</td>
-            </tr>
-            <tr>
-                <td>Elementary Differential Equations and Laplace Transforms</td>
-                <td>MATH 2670</td>
-                <td>Spring 2024</td>
-            </tr>
-            <tr>
-                <td>Introduction to Proofs</td>
-                <td>MATH 2010</td>
-                <td>Spring 2024</td>
-            </tr>
-            <tr>
-                <td>Introduction to Partial Differential Equations</td>
-                <td>MATH 3850</td>
-                <td>Fall 2024</td>
-            </tr>
-            <tr>
-                <td>Introduction to Scientific Computing</td>
-                <td>MATH 3730</td>
-                <td>Fall 2024</td>
-            </tr>
-
+        <table>
+            <thead>
+                <tr>
+                    <th>Course Name</th>
+                    <th>Course Code</th>
+                    <th>Semester</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Calculus III</td>
+                    <td>MATH 2650</td>
+                    <td>Fall 2023</td>
+                </tr>
+                <tr>
+                    <td>Elementary Differential Equations and Laplace Transforms</td>
+                    <td>MATH 2670</td>
+                    <td>Spring 2024</td>
+                </tr>
+                <tr>
+                    <td>Introduction to Proofs</td>
+                    <td>MATH 2010</td>
+                    <td>Spring 2024</td>
+                </tr>
+                <tr>
+                    <td>Introduction to Partial Differential Equations</td>
+                    <td>MATH 3850</td>
+                    <td>Fall 2024</td>
+                </tr>
+                <tr>
+                    <td>Introduction to Scientific Computing</td>
+                    <td>MATH 3730</td>
+                    <td>Fall 2024</td>
+                </tr>
             <!-- Add more rows here -->
         </tbody>
     </table>
