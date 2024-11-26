@@ -12,6 +12,8 @@ _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 _layouts/about.liquid
 _pages/about.md
+_pages/classes.md
+_pages/putnam.md
 CUSTOMIZE.md
 1_project.md
 4_project.md
