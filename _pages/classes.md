@@ -24,13 +24,13 @@ nav_order: 2
             text-align: left;
         }
         th {
-            background-color: #212121;
+            background-color: #2e2e2e;
         }
         tr:nth-child(even) {
-            background-color: #f9f9f9;
+            background-color: #2e2e2e;
         }
         tr:hover {
-            background-color: #f1f1f1;
+            background-color: #2e2e2e;
         }
     </style>
 </head>
