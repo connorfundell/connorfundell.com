@@ -4,4 +4,4 @@ permalink: /secrets/
 nav: false
 ---
 
-Why are you here?
+It works!
