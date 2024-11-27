@@ -21,7 +21,6 @@ nav_order: 2
         th, td {
             border: 1px solid #ddd;
             padding: 8px 12px;
-            text-align: left;
         }
         th {
             background-color: #2e2e2e;
@@ -32,11 +31,25 @@ nav_order: 2
         tr:hover {
             background-color: #2e2e2e;
         }
+        /* Left-align the first column */
+        .left-aligned {
+            text-align: left;
+        }
+        /* Center-align specific columns */
+        .centered {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <h2>Chemistry</h2>
+Unless otherwise specified, each class also had a corequisite lab section.
     <table>
+        <colgroup>
+            <col class="left-aligned"> <!-- Course Name -->
+            <col class="centered"> <!-- Course Code -->
+            <col class="centered"> <!-- Semester -->
+        </colgroup>
         <thead>
             <tr>
                 <th>Course Name</th>
@@ -48,60 +61,62 @@ nav_order: 2
             <tr>
                 <td>Advanced General Chemistry</td>
                 <td>CHEM 2010</td>
-                <td>Fall 2023</td>
+                <td>F23</td>
             </tr>
             <tr>
                 <td>Quantitative and Environmental Analysis</td>
                 <td>CHEM 2110</td>
-                <td>Spring 2024</td>
+                <td>S24</td>
             </tr>
             <tr>
                 <td>Organic Chemistry I*</td>
                 <td>CHEM 3310</td>
-                <td>Fall 2024</td>
+                <td>F24</td>
             </tr>
-            <!-- Add more rows here -->
         </tbody>
+* Major's lab section (2, 3 hr lab periods per week)
     </table>
     <h1>Mathematics</h1>
-        <table>
-            <thead>
-                <tr>
-                    <th>Course Name</th>
-                    <th>Course Code</th>
-                    <th>Semester</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Calculus III</td>
-                    <td>MATH 2650</td>
-                    <td>Fall 2023</td>
-                </tr>
-                <tr>
-                    <td>Elementary Differential Equations and Laplace Transforms</td>
-                    <td>MATH 2670</td>
-                    <td>Spring 2024</td>
-                </tr>
-                <tr>
-                    <td>Introduction to Proofs</td>
-                    <td>MATH 2010</td>
-                    <td>Spring 2024</td>
-                </tr>
-                <tr>
-                    <td>Introduction to Partial Differential Equations</td>
-                    <td>MATH 3850</td>
-                    <td>Fall 2024</td>
-                </tr>
-                <tr>
-                    <td>Introduction to Scientific Computing</td>
-                    <td>MATH 3730</td>
-                    <td>Fall 2024</td>
-                </tr>
-            <!-- Add more rows here -->
+    <table>
+        <colgroup>
+            <col class="left-aligned"> <!-- Course Name -->
+            <col class="centered"> <!-- Course Code -->
+            <col class="centered"> <!-- Semester -->
+        </colgroup>
+        <thead>
+            <tr>
+                <th>Course Name</th>
+                <th>Course Code</th>
+                <th>Semester</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Calculus III</td>
+                <td>MATH 2650</td>
+                <td>F3</td>
+            </tr>
+            <tr>
+                <td>Elementary Differential Equations and Laplace Transforms</td>
+                <td>MATH 2670</td>
+                <td>S24</td>
+            </tr>
+            <tr>
+                <td>Introduction to Proofs</td>
+                <td>MATH 2010</td>
+                <td>S24</td>
+            </tr>
+            <tr>
+                <td>Introduction to Partial Differential Equations</td>
+                <td>MATH 3850</td>
+                <td>F24</td>
+            </tr>
+            <tr>
+                <td>Introduction to Scientific Computing</td>
+                <td>MATH 3730</td>
+                <td>F24</td>
+            </tr>
         </tbody>
     </table>
-
-
 </body>
 </html>
