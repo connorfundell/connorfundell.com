@@ -94,7 +94,7 @@ Unless otherwise specified, each class also had a corequisite lab section.
             <tr>
                 <td>Calculus III</td>
                 <td>MATH 2650</td>
-                <td>F3</td>
+                <td>F23</td>
             </tr>
             <tr>
                 <td>Elementary Differential Equations and Laplace Transforms</td>
