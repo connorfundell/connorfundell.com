@@ -76,7 +76,7 @@ Unless otherwise specified, each class also had a corequisite lab section.
         </tbody>
 * Major's lab section (2, 3 hr lab periods per week)
     </table>
-    <h1>Mathematics</h1>
+    <h2>Mathematics</h2>
     <table>
         <colgroup>
             <col class="left-aligned"> <!-- Course Name -->
