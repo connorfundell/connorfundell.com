@@ -73,6 +73,16 @@ Unless otherwise specified, each class also had a corequisite lab section.
                 <td>CHEM 3310</td>
                 <td>F24</td>
             </tr>
+            <tr>
+                <td>Organic Chemistry II*</td>
+                <td>CHEM 3320</td>
+                <td>S25</td>
+            </tr>
+            <tr>
+                <td>Introductory Quantum Mechanics</td>
+                <td>CHEM 3240</td>
+                <td>S25</td>
+            </tr>
         </tbody>
 * Major's lab section (2, 3 hr lab periods per week)
     </table>
@@ -115,6 +125,11 @@ Unless otherwise specified, each class also had a corequisite lab section.
                 <td>Introduction to Scientific Computing</td>
                 <td>MATH 3730</td>
                 <td>F24</td>
+            </tr>
+            <tr>
+                <td>Theory of Linear Algebra</td>
+                <td>MATH 3170</td>
+                <td>S25</td>
             </tr>
         </tbody>
     </table>
