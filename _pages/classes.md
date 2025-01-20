@@ -2,7 +2,7 @@
 layout: page
 permalink: /classes/
 title: Classes
-description: STEM classes I have taken as an undergraduate at Iowa State.
+description: STEM classes I have taken as an undergraduate student at Iowa State.
 nav: true
 nav_order: 2
 ---
