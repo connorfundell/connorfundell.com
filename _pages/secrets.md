@@ -4,4 +4,4 @@ permalink: /secrets/
 nav: false
 ---
 
-It works!
+You should not be here. Go away.
