@@ -3,7 +3,7 @@ layout: page
 title: Putnam Problems
 permalink: /Putnam_Problems/
 description: A collection of Putnam Problems and their solutions.
-nav: false
+nav: true
 nav_order: 1
 display_categories: [General Calculus, Differential Equations]
 horizontal: false
