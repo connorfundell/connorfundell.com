@@ -133,5 +133,43 @@ Unless otherwise specified, each class also had a corequisite lab section.
             </tr>
         </tbody>
     </table>
+    <h2>Physics</h2>
+    <table>
+        <colgroup>
+            <col class="left-aligned"> <!-- Course Name -->
+            <col class="centered"> <!-- Course Code -->
+            <col class="centered"> <!-- Semester -->
+        </colgroup>
+        <thead>
+            <tr>
+                <th>Course Name</th>
+                <th>Course Code</th>
+                <th>Semester</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Introduction to Classical Physics I</td>
+                <td>PHYS 2310</td>
+                <td>F24</td>
+            </tr>
+            <tr>
+                <td>Introduction to Classical Physics I Laboratory</td>
+                <td>PHYS 2310L</td>
+                <td>F24</td>
+            </tr>
+            <tr>
+                <td>Introduction to Classical Physics II</td>
+                <td>PHYS 2320</td>
+                <td>S25</td>
+            </tr>
+            <tr>
+                <td>Introduction to Classical Physics I Laboratory</td>
+                <td>PHYS 2320L</td>
+                <td>S25</td>
+            </tr>
+        </tbody>
+    </table>
+
 </body>
 </html>
