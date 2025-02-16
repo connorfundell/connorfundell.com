@@ -5,7 +5,7 @@ permalink: /Putnam_Problems/
 description: A collection of Putnam Problems and their solutions.
 nav: true
 nav_order: 1
-display_categories: [General Calculus, Differential Equations]
+display_categories: [General Calculus, Trigonometry]
 horizontal: false
 ---
 
