@@ -8,4 +8,4 @@ nav_order: 10
 horizontal: false
 ---
 
-<img src="../assets/img/Michigan_2024/on_edge.jpg>" alt="standing on the edge">
+<img src="../assets/img/Michigan_2024/on_edge.jpg" alt="standing on the edge">
