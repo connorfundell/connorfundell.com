@@ -2,7 +2,7 @@
 layout: page
 title: 2023 A1
 description: A problem with gratuitous use of the chain and product rules.
-img: 2023_A1.png
+img: 
 importance: 1
 category: General Calculus
 related_publications: false
