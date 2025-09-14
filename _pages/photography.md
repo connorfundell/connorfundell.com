@@ -8,4 +8,4 @@ nav_order: 10
 horizontal: false
 ---
 
-<img src="../assets/img/Michigan_2024/on_edge.jpg" alt="standing on the edge" width="40" height="60">
+<img src="../assets/pdf/barons_2_mimes.pdf" alt="barons to mimes calculation" width=100% type="application/pdf">
