@@ -79,9 +79,14 @@ Unless otherwise specified, each class also had a corequisite lab section.
                 <td>S25</td>
             </tr>
             <tr>
-                <td>Introductory Quantum Mechanics</td>
+                <td>Introductory Quantum Mechanics (No Lab Section)</td>
                 <td>CHEM 3240</td>
                 <td>S25</td>
+            </tr>
+            <tr>
+                <td>Chemical Thermodynamics (No Lab Section)</td>
+                <td>CHEM 3250</td>
+                <td>F25</td>
             </tr>
         </tbody>
 * Major's lab section (2, 3 hr lab periods per week)
@@ -131,6 +136,11 @@ Unless otherwise specified, each class also had a corequisite lab section.
                 <td>MATH 3170</td>
                 <td>S25</td>
             </tr>
+            <tr>
+                <td>Introduction to High Performance Computing</td>
+                <td>MATH 4240</td>
+                <td>F25</td>
+            </tr>
         </tbody>
     </table>
     <h2>Physics</h2>
@@ -164,9 +174,24 @@ Unless otherwise specified, each class also had a corequisite lab section.
                 <td>S25</td>
             </tr>
             <tr>
-                <td>Introduction to Classical Physics I Laboratory</td>
+                <td>Introduction to Classical Physics II Laboratory</td>
                 <td>PHYS 2320L</td>
                 <td>S25</td>
+            </tr>
+            <tr>
+                <td>Introduction to Modern Physics I</td>
+                <td>PHYS 3210</td>
+                <td>F25</td>
+            </tr>
+            <tr>
+                <td>Introductory Laboratory in Modern Physics I</td>
+                <td>PHYS 3210L</td>
+                <td>F25</td>
+            </tr>
+            <tr>
+                <td>Electricity and Magnetism I</td>
+                <td>PHYS 3640</td>
+                <td>F25</td>
             </tr>
         </tbody>
     </table>
