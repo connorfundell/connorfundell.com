@@ -2,7 +2,7 @@
 layout: page
 title: 2009 A3
 description: A problem with determinants and cosine identities.
-img: 
+img: 2009_A3.jpg
 importance: 2
 category: Trigonometry
 related_publications: false
