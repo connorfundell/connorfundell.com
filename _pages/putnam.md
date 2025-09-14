@@ -2,7 +2,7 @@
 layout: page
 title: Putnam Problems
 permalink: /Putnam_Problems/
-description: A collection of Putnam Problems and their solutions. While some of the solutions posted here reflect my own process, many of the soltuions are supplemented by those in [Dr. Kedlaya's archive]{https://kskedlaya.org/putnam-archive/}. The purpose of this page is to encourage myself to practice for the Putnam and to clarify any solutions that I find myself struggling through. As of 9/14/2025, I plan to add one problem/page to this collection or the soon-coming Theorems & Principles page. 
+description: A collection of Putnam Problems and their solutions. While some of the solutions posted here reflect my own process, many of the soltuions are supplemented by those in [Dr. Kedlaya's archive](https://kskedlaya.org/putnam-archive/). The purpose of this page is to encourage myself to practice for the Putnam and to clarify any solutions that I find myself struggling through. As of 9/14/2025, I plan to add one problem/page to this collection or the soon-coming Theorems & Principles page. 
 nav: true
 nav_order: 1
 display_categories: [General Calculus, Trigonometry]
