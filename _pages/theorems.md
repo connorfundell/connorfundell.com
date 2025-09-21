@@ -5,7 +5,7 @@ permalink: /theorems_and_such/
 description: A 'dictionary' of different theorems and properties that I've found useful in studying for the Putnam. Also serves as a personal reference for things I have a tendency to forget.
 nav: true
 nav_order: 2
-display_categories: [Miscellaneous]
+display_categories: [Number Theory, Miscellaneous]
 horizontal: false
 ---
 
