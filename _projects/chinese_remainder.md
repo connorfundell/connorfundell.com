@@ -34,8 +34,7 @@ class="math display">\[\begin{equation*}
 <span class="math inline">\(x\equiv 1 \text{ (mod 2)}\)</span>: <span
 class="math display">\[\begin{equation*}
     \cancel{1} \quad \cancel{2} \quad \cancel{3} \quad \cancel{4} \quad
-\tikz[baseline=(char.base)]{
-            \node[shape=circle,draw,inner sep=2pt] (char) {5};} \quad
+5 \quad
 \cancel{6}
 \end{equation*}\]</span> Therefore, 5 is the only number less than 6
 that satisfies the given modular relations.</p>
@@ -52,8 +51,7 @@ relation, <span class="math display">\[\begin{equation*}
 \end{equation*}\]</span> Now the second relation, <span
 class="math display">\[\begin{equation*}
     \cancel{1} \quad \cancel{2} \quad \cancel{3} \quad \cancel{4} \quad
-\cancel{5} \quad \cancel{6} \quad \tikz[baseline=(char.base)]{
-            \node[shape=circle,draw,inner sep=2pt] (char) {7};} \quad
+\cancel{5} \quad \cancel{6} \quad 7 \quad
 \cancel{8} \quad \cancel{9} \quad \cancel{10} \quad \cancel{11} \quad
 \cancel{12} \quad \cancel{13} \quad \cancel{14} \quad \cancel{15}
 \end{equation*}\]</span> Thus, 7 must be the only natural number less
