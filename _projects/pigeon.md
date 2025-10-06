@@ -14,7 +14,6 @@ permalink: /theorems_and_such/pigeonhole
 
 <!-- Begin solution -->
 <p>Last updated on 9/15/25</p>
-<h2 id="pigeonhole-principle">Pigeonhole principle</h2>
 <p>Perhaps the very first idea I was introduced to when learning about
 the Putnam was the Pigeonhole principle. The idea itself is pretty
 intuitive and generally reads as follows:</p>
