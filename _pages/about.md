@@ -15,6 +15,14 @@ selected_papers: fasle # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<!-- Remove page from search results -->
+<html>
+<head>
+    <meta name="robots" content="noindex">
+</head>
+</html>
+
+
 This website is currently under construction. I plan to use this space as a means of organizing my notes and to learn some computer science skills. Check back soon for more updates!
 
 -Connor

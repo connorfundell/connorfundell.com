@@ -9,6 +9,13 @@ display_categories: [Number Theory, General Calculus, Trigonometry]
 horizontal: false
 ---
 
+<html>
+<head>
+    <!-- Remove page from search results -->
+    <meta name="robots" content="noindex">
+</head>
+</html>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

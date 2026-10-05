@@ -9,6 +9,13 @@ display_categories: [Number_Theory, Miscellaneous]
 horizontal: false
 ---
 
+<!-- Remove page from search results -->
+<html>
+<head>
+    <meta name="robots" content="noindex">
+</head>
+</html>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
