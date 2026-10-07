@@ -1,4 +1,5 @@
 ---
+robots: "noindex"
 layout: page
 permalink: /classes/
 title: Classes

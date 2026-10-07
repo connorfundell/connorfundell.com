@@ -1,4 +1,5 @@
 ---
+robots: "noindex"
 layout: page
 title: Theorems & Principles
 permalink: /theorems_and_such/

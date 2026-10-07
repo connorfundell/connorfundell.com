@@ -1,4 +1,5 @@
 ---
+robots: "noindex"
 layout: page
 title: Putnam Problems
 permalink: /Putnam_Problems/

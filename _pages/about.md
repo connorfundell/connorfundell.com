@@ -1,4 +1,5 @@
 ---
+robots: "noindex"
 layout: about
 title: About
 permalink: /
